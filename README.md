@@ -1,4 +1,4 @@
 AttractorSequencer
 ==================
 
-Sequencer using particles
+Sequencer using particles and kinect data
